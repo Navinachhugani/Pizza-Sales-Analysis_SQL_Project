@@ -1,6 +1,6 @@
-## Pizza Sales Analysis
+# Pizza Sales Analysis
 
-# Overview:
+## Introduction:
 
 This project aims to utilize data analysis to optimize sales strategies and enhance decision-making processes for a pizza delivery service. By examining key metrics such as total orders, revenue generation, popular pizza types, and customer preferences, this project seeks to uncover actionable insights for improving sales performance and customer satisfaction.
 
@@ -16,7 +16,7 @@ Exploratory Data Analysis revealed the distribution and characteristics of data.
 - Variation in pizza prices across different categories.
 - Identification of most popular pizza sizes and types.
 
-# Basic Analysis:
+## Basic Analysis:
  - Total Orders Placed:
 The total number of orders placed during the analyzed period.
 
@@ -32,7 +32,7 @@ Determination of the most common pizza size ordered.
 - Top 5 Most Ordered Pizza Types:
 Listing the top 5 most ordered pizza types along with their quantities.
 
-# Intermediate Analysis:
+## Intermediate Analysis:
 
 - Total Quantity of Each Pizza Category Ordered:
 Joining necessary tables to find the total quantity of each pizza category ordered.
@@ -49,7 +49,7 @@ Grouping the orders by date and calculating the average number of pizzas ordered
 - Top 3 Most Ordered Pizza Types Based on Revenue:
 Determining the top 3 most ordered pizza types based on revenue.
 
-# Advanced Analysis:
+## Advanced Analysis:
 - Percentage Contribution of Each Pizza Type to Total Revenue:
 Calculating the percentage contribution of each pizza type to total revenue.
 
